@@ -1,3 +1,3 @@
 # SierpinskiTriangle
 A simple java swing GUI that generates Sierpinski's Triangle recursively.
-![Screenshot](screenshot.png)
+![Screenshot](./images/Triangle-Screenshot.png)
